@@ -1,5 +1,5 @@
 # Title: MK's  mk-smart-tv-blocklist.txt
-# Released: 	2022-06-02T10:10:00+00:00
+# Released: 	2022-06-02T10:27:35+00:00
 # Count: 6 domains
 # Expires: 2 days
 # http://www.apache.org/licenses/LICENSE-2.0
