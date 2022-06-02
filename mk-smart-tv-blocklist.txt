@@ -19,3 +19,8 @@
 0.0.0.0 nflxso.net
 0.0.0.0 nflxext.com
 0.0.0.0 nflximg.com
+0.0.0.0 facebook.com
+0.0.0.0 ndmdhs.com
+0.0.0.0 googleapis.com
+0.0.0.0 vewd.com
+0.0.0.0 googleusercontent.com
