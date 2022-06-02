@@ -10,4 +10,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-0.0.0.0 sony.tv
+0.0.0.0 images.erabu.sony.tv
+0.0.0.0 api.erabu.sony.tv
+0.0.0.0 metadata.erabu.sony.tv
+0.0.0.0 mediaservices.cdn-apple.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 fcm.googleapis.com
