@@ -16,3 +16,6 @@
 0.0.0.0 mediaservices.cdn-apple.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 fcm.googleapis.com
+0.0.0.0 nflxso.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
